@@ -10,12 +10,12 @@ This class is about the creation of digital versions of many things, like transc
 
 # Project Statements
 
-![picture of flight taking off from LaGuardia airport](/assets/image/mint tea.jpg)
+![picture of flight taking off from LaGuardia airport](/assets/image/minttea.jpg)
 
 ![picture of flight taking off from LaGuardia airport](/assets/image/reception.jpg)
 
-![picture of flight taking off from LaGuardia airport](/assets/image/walk to the reception.jpg)
+![picture of flight taking off from LaGuardia airport](/assets/image/walktothereception.jpg)
 
-![picture of flight taking off from LaGuardia airport](/assets/image/post-rain sky.jpg)
+![picture of flight taking off from LaGuardia airport](/assets/image/post-rainsky.jpg)
 
-![picture of flight taking off from LaGuardia airport](/assets/image/middle of class.jpg)
+![picture of flight taking off from LaGuardia airport](/assets/image/middleofclass.jpg)
