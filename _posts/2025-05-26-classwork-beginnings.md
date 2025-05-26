@@ -10,7 +10,7 @@ This class is about the creation of digital versions of many things, like transc
 
 # Project Statements
 
-![picture of mint tea](/assets/image/minttea.jpg)
+![picture of mint tea](/assets/image/Minttea.jpg)
 
 ![picture of reception](/assets/image/reception.jpg)
 
