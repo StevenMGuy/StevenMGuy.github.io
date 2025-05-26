@@ -9,3 +9,13 @@ categories: [content, demo]
 This class is about the creation of digital versions of many things, like transcripts, letters, or documents. Many of my classmates came into the class with a project in mind and 
 
 # Project Statements
+
+![picture of flight taking off from LaGuardia airport](/assets/image/mint tea.jpg)
+
+![picture of flight taking off from LaGuardia airport](/assets/image/reception.jpg)
+
+![picture of flight taking off from LaGuardia airport](/assets/image/walk to the reception.jpg)
+
+![picture of flight taking off from LaGuardia airport](/assets/image/post-rain sky.jpg)
+
+![picture of flight taking off from LaGuardia airport](/assets/image/middle of class.jpg)
