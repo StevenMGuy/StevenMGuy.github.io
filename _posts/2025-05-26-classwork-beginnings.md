@@ -31,4 +31,4 @@ A Coke at the reception
 A nice post-rain sky
 
 ![picture of mint tea](/assets/image/Minttea.jpg)
-A great tea we got for free
+A great mint tea we got for free
