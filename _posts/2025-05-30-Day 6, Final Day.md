@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Fourth Class of the Week
+title: Last Class
 categories: [content, demo]
 ---
 
-##
+## 
 
 ![picture of last conference](/assets/image/finalconference.jpg)
 
